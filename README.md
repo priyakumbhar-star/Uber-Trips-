@@ -15,6 +15,8 @@ This project is part of my internship where I analyzed Uber trip data to extract
 
 ## Dataset
 The dataset contains Uber trip details like date, time, location, etc.
+sample dataset visit:
+https://www.kaggle.com/brllrb/uber-and-lyft-dataset-boston-ma
 
 ## Key Insights
 - Peak hours identified
