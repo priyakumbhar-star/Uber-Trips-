@@ -1,6 +1,6 @@
-# Uber Trips Data Analysis 
+# Uber Trips Data Exploration
 
-## Internship Project
+## My 1st Internship Project
 This project is part of my internship where I analyzed Uber trip data to extract insights.
 
 ## Objectives
